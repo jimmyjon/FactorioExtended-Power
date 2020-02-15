@@ -5,7 +5,7 @@ end
 
 -- solar-panel                              mk1         mk2         mk3
 -- max_health                               200         400         600
--- production                               60kW        240kW
+-- production                               60kW        240kW       960kW
 --
 -- If someone has already set the fast_replaceable_group lets use it too
 if not data.raw["solar-panel"]["solar-panel"].fast_replaceable_group then
@@ -33,7 +33,7 @@ mk3.icon = "__FactorioExtended-Plus-Power__/graphics/icons/" .. mk3.name .. ".pn
 mk3.icon_size = 32
 mk3.icon_mipmaps = nil
 mk3.minable.result = mk3.name
-mk3.max_health = 400
+mk3.max_health = 600
 mk3.next_upgrade = nil
 mk3.production = "960kW"
 

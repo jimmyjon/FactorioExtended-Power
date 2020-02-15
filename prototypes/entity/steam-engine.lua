@@ -1,5 +1,5 @@
 -- steam-engine                             mk1         mk2         mk3
--- max_health                               400         600         1200
+-- max_health                               400         600         800
 -- effectivity                              1           1.5         2
 -- fluid_usage_per_tick                     0.5         0.75        1
 --
@@ -15,7 +15,7 @@ mk2.icon = "__FactorioExtended-Plus-Power__/graphics/icons/" .. mk2.name .. ".pn
 mk2.icon_size = 32
 mk2.icon_mipmaps = nil
 mk2.minable.result = mk2.name
-mk2.max_health = 300
+mk2.max_health = 600
 mk2.next_upgrade = "steam-engine-mk3"
 mk2.effectivity = 1.5
 mk2.fluid_usage_per_tick = 0.75
@@ -31,7 +31,7 @@ mk3.icon = "__FactorioExtended-Plus-Power__/graphics/icons/" .. mk3.name .. ".pn
 mk3.icon_size = 32
 mk3.icon_mipmaps = nil
 mk3.minable.result = mk3.name
-mk3.max_health = 1200
+mk3.max_health = 800
 mk3.next_upgrade = nil
 mk3.effectivity = 2
 mk3.fluid_usage_per_tick = 1

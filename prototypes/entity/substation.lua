@@ -31,8 +31,8 @@ mk3.icon_mipmaps = nil
 mk3.minable.result = mk3.name
 mk3.max_health = 600
 mk3.next_upgrade = nil
-mk3.maximum_wire_distance = 28
-mk3.supply_area_distance = 14
+mk3.maximum_wire_distance = 42
+mk3.supply_area_distance = 21
 
 mk3.pictures.layers[1].filename = "__FactorioExtended-Plus-Power__/graphics/entity/" .. mk3.name .. "/" .. mk3.name .. ".png"
 mk3.pictures.layers[1].hr_version.filename = "__FactorioExtended-Plus-Power__/graphics/entity/" .. mk3.name .. "/hr-" .. mk3.name .. ".png"
