@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.4.3
+Date: 20. 02. 2020
+  Changes :
+    - Added Mk2/3 (Heat Exchangers / Steam Turbines / Nuclear Reactors)
+    - Added Mk2 Heat Pipes
+    - Added research Nuclear-2 / Nuclear-3
+---------------------------------------------------------------------------------------------------
 Version: 0.4.2
 Date: 15. 02. 2020
   Fixes :

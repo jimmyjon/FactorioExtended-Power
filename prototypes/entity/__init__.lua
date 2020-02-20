@@ -5,3 +5,8 @@ require("medium-electric-pole")
 require("steam-engine")
 require("solar-panel")
 require("substation")
+
+require("heat-exchanger")
+require("heat-pipe")
+require("nuclear-reactor")
+require("steam-turbine")
