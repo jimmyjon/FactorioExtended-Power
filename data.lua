@@ -9,3 +9,4 @@ require("prototypes.recipe.recipe-power-poles")
 require("prototypes.recipe.recipe-generators")
 
 require("prototypes.technology.technology-electrical-engineer")
+require("data-updates")
